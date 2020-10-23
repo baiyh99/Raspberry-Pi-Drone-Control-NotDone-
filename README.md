@@ -12,4 +12,8 @@ This project is to control the drone with raspberry pi from scratch. The parts u
  
  ESC1 code is supposed to give controls to the basic movements as moving forward, backward, left and right, and takeoff.
  But this code is not the complete one, the complete versoin of this part is still in Raspberry Pi. I will update it ASAP and declare the changes in READ.me.
+ The codes require a pigpio API to execute. 
+ 
+ Referenced to:
+ https://www.instructables.com/Driving-an-ESCBrushless-Motor-Using-Raspberry-Pi/
 
