@@ -1,10 +1,12 @@
+#Reference to: https://www.instructables.com/Driving-an-ESCBrushless-Motor-Using-Raspberry-Pi/
+#Credit to: https://www.instructables.com/Driving-an-ESCBrushless-Motor-Using-Raspberry-Pi/
+
 import os 
 import time 
 os.system ("sudo pigpiod")
 time.sleep(1)
 import pigpio
-# Reference by
-# Credit to 
+
 m1=3 #front left
 m2=4 #front right
 m3=5 #back left
