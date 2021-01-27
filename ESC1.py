@@ -3,7 +3,8 @@ import time
 os.system ("sudo pigpiod")
 time.sleep(1)
 import pigpio
-
+# Reference by
+# Credit to 
 m1=3 #front left
 m2=4 #front right
 m3=5 #back left
